@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Hello my name is Jeffrey, and I also go by The Kansas Kid Dj Streets. I'm a semi-famous dj who lives in Virginia Beach, Virginia and I run dimensions entertainment with my business partner D J T O! Ok that's enough
+Hello my name is Jeffrey, and I also go by The Kansas Kid Dj Streets. I'm a semi-famous dj who lives in Virginia Beach, Virginia and I run dimensions entertainment with my business partner D J T O! Ok that's enough, this better work
 =======
 Hello my name is Jeffrey, and I'm creating a C I C D pipeline with my 
 classmates for a project.
