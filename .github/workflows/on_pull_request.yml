@@ -1,4 +1,4 @@
-name: Polly Audio Conversion
+name: Polly Audio Conversion (Beta)
 
 on:
   pull_request:
@@ -32,3 +32,6 @@ jobs:
 
       - name: Run Polly synthesis script
         run: python3 Synthesize.py
+
+      - name: Upload MP3 to S3 as beta.mp3
+        run: aws s3 cp output.mp3 s3://mypollyprojectbucketjcv/polly-audio/beta.mp3
